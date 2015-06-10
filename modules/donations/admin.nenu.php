@@ -1,11 +1,12 @@
 <?php
 
 /**
- * @Project NUKEVIET 3.x
- * @Author VINADES.,JSC (contact@vinades.vn)
- * @Copyright (C) 2015 VINADES.,JSC. All rights reserved
+ * @Project NUKEVIET 4.x
+ * @Author Webvang (hoang.nguyen@webvang.vn)
+ * @Copyright (C) 2015 webvang.vn. All rights reserved
  * @Createdate Tue, 02 Jun 2015 16:35:15 GMT
  */
+
 
 if ( ! defined( 'NV_ADMIN' ) or ! defined( 'NV_MAINFILE' ) or ! defined( 'NV_IS_MODADMIN' ) ) die( 'Stop!!!' );
 
